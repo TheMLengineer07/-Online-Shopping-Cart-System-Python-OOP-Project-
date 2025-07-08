@@ -2,7 +2,7 @@
 
 This is a console-based shopping cart system implemented using Object-Oriented Programming (OOP) principles in Python. It simulates a basic e-commerce workflow where customers can add products to their cart, view details, apply discounts, and complete checkout.
 
-📌 Key Features
+# 📌 Key Features
 # Product Management:
 * Create products with price, stock, and ID
 * Apply percentage-based discounts
@@ -17,3 +17,10 @@ This is a console-based shopping cart system implemented using Object-Oriented P
 * Each customer has a personal cart
 * View cart at any time
 * Checkout and clear cart
+
+✅ How to Run
+
+''' bash python shopping_cart.py'''
+
+No setup required – runs directly in terminal or any Python IDE.
+
