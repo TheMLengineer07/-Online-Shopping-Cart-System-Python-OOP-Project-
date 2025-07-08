@@ -24,6 +24,8 @@ No setup required – runs directly in terminal or any Python IDE.
 
 👨‍💻 Example Output
 
+``` bash
+
 1 x Laptop added to the cart.
 2 x Mouse added to the cart.
 
@@ -39,6 +41,7 @@ Laptop (ID: P001) -₹60000 | in stock:4 | Quantity: 1 | Subtotal: ₹60000
 Mouse (ID: P002) -₹800 | in stock:8 | Quantity: 2 | Subtotal: ₹1600
 Total: ₹61600
 Thank you for shopping!
+```
 
 
 🛠️ Technologies Used
