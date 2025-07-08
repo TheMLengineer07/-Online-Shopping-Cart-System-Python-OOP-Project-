@@ -16,8 +16,6 @@ A simple command-line-based Python project that simulates a basic online shoppin
 
 
 
-
-
 ✅ How to Run
 
 <pre> ```bash python shopping_cart.py ``` </pre>
@@ -26,7 +24,7 @@ No setup required – runs directly in terminal or any Python IDE.
 
 👨‍💻 Example Output
 
-```1 x Laptop added to the cart.
+1 x Laptop added to the cart.
 2 x Mouse added to the cart.
 
 Alice's shopping cart:
@@ -40,7 +38,8 @@ cart contains
 Laptop (ID: P001) -₹60000 | in stock:4 | Quantity: 1 | Subtotal: ₹60000
 Mouse (ID: P002) -₹800 | in stock:8 | Quantity: 2 | Subtotal: ₹1600
 Total: ₹61600
-Thank you for shopping!```
+Thank you for shopping!
+
 
 🛠️ Technologies Used
 Python 3
@@ -62,6 +61,11 @@ Save cart to file or database
 Add login/signup functionality
 
 GUI version using Tkinter or Web framework
+
+📄 License
+This project is open-source and available under the MIT License.
+
+
 
 
 
