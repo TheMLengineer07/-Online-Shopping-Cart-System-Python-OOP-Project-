@@ -20,7 +20,7 @@ This is a console-based shopping cart system implemented using Object-Oriented P
 
 ✅ How to Run
 
-''' bash python shopping_cart.py'''
+``` bash python shopping_cart.py```
 
 No setup required – runs directly in terminal or any Python IDE.
 
